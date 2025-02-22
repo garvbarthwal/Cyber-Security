@@ -1,4 +1,3 @@
-
 # Cyber-Security Project Ideas
 
 ## 1. Simple Website Vulnerability Scanner
@@ -30,3 +29,17 @@
   Build an application that securely shares files using end-to-end encryption and digital signatures, ensuring both confidentiality and authenticity.
 - **Skills**:  
   Cryptography, networking, secure communication protocols, Python (or any other language of your choice).
+
+---
+
+## 6. Security Information and Event Management (SIEM) System
+- **Description**:  
+  Develop a system that collects and analyzes logs from various network devices, applications, and security tools to identify potential threats or anomalies. Incorporate features such as real-time alerts, dashboards, and compliance reporting.
+- **Skills**:  
+  Log analysis, intrusion detection systems (IDS), real-time data processing, networking, and threat hunting.
+
+## 7. Red Team vs. Blue Team Simulation
+- **Description**:  
+  Develop a platform that allows teams to simulate real-world cyber-attacks (Red Team) and defense strategies (Blue Team). This can include features like attack simulations, monitoring tools, incident response playbooks, and vulnerability management.
+- **Skills**:  
+  Penetration testing, security operations, attack simulation, network defense, and incident management.
